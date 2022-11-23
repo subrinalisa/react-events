@@ -1,0 +1,14 @@
+body {
+  background: teal;
+}
+.form-control {
+  color: #fff !important;
+  background: transparent !important;
+}
+.form-control::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+.btn-light {
+  font-weight: 600;
+  color: teal;
+}
